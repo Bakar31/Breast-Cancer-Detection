@@ -12,11 +12,17 @@ According to the WHO, breast cancer is the most commonly occurring cancer worldw
 ### Correlation
 ![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/correlation.png)
 
-### Normal and abnormal breasts
-![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/with%20and%20without%20cancer.png)
+### Healthy breasts
+![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/healthy.png)
 
-### Natural and implant breast with cancer
-![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/natural%20and%20implant%20with%20cancer.png)
+### Abnormal breasts
+![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/abnormal.png)
+
+### Natural breast with cancer
+![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/natural%20with%20cancer.png)
+
+### Implant breast with cancer
+![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/implant%20with%20cancer.png)
 
 ## Result
 
@@ -58,4 +64,4 @@ According to the WHO, breast cancer is the most commonly occurring cancer worldw
 </table>
 
 ### ConvNeXtTiny history
-![alt text]()
+![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/convnet%20history.png)
