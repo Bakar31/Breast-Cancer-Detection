@@ -24,6 +24,19 @@ According to the WHO, breast cancer is the most commonly occurring cancer worldw
 ### Implant breast with cancer
 ![alt text](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/implant%20with%20cancer.png)
 
+## My Approch:
+<p>
+<li>The given DCM image files were converted to PNG. I tried converting the file in the data generator, but it took 
+  extra time.
+</li>
+<li>Most of the regions in the image didn't contain useful information. So, I extracted the Region of
+  Interest (ROI) and created a new dataset to work with.
+</li>
+<li>Transfer learning was used to evaluate the performance of various well-known architectures 
+  (AlexNet, VGG-16, Resnet50, and EfficientNet). The performance of various vision transformers was then evaluated.</li>
+<li>The performance of vision transformer was satisfactory and the results are given in the table below.</li>
+
+
 ## Result
 
 <table>
